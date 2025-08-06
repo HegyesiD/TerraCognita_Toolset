@@ -1,4 +1,4 @@
-# TerraCognita Toolset
+# TerraCognita Toolset Mental Mapping Tool
 
 For the successful usage of the Terra Cognita Toolset Mental Mapping Tool you need the followings:
 - Google Developer profile 
